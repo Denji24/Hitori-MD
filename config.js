@@ -61,24 +61,24 @@ global.ppulsa2 = '082125276167'
 global.psaweria = 'https://saweria.co/nvkenn'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281323870860'
-global.nomorown = '6282125276167'
-global.namebot = 'XHITORI'
-global.nameown = 'V4LL'
+global.nomorbot = '6283822270848'
+global.nomorown = '6283822270848'
+global.namebot = 'Quanxi-Md'
+global.nameown = 'B1mzz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282125276167', 'V4LL', true]
+  ['6283822270848', 'B1mzz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = [6283822270848] // Want some help?
+global.prems = [6283822270848] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
-global.xkey = 'APIKEYMU'
+global.xkey = 'yPkuRAts'
 /*============== API ==============*/
 global.APIs = { // API Prefix
-  // name: 'https://website'
+  // name: 'https://api.zeeoneofc.my.id'
   nrtm: 'https://nurutomo.herokuapp.com',
   rey: 'https://server-api-rey.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
@@ -96,7 +96,7 @@ global.APIs = { // API Prefix
   males: 'https://malesin.xyz'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://api.zeeoneofc.my.id': 'yPkuRAts'
   'https://api.xteam.xyz': 'NezukoTachibana281207',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
   'https://api.lolhuman.xyz': 'a70fe5fb01ea65b6bb350009',
@@ -113,13 +113,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 X H 1 T O R I シ」' //Main Watermark
-global.wm2 = '𝐗𝐇𝐈𝐓𝐎𝐑𝐈'
+global.wm = '                「 Q U A N X I シ」' //Main Watermark
+global.wm2 = 'Quanxi'
 global.wm3 = '❖ ʜɪᴛᴏʀɪ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '✨┊ XH1TORI '
-global.author = global.wm
+global.titlebot = '✨┊ QUANXI '
+global.author = BIMZ.wm
 
 
 /*============== LOGO ==============*/
@@ -171,7 +171,7 @@ global.htjava = '𔔮'   //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'XH1TORI'
+global.stickpack = 'QUANXU'
 global.stickauth = `シ`
 
 global.multiplier = 38 // The higher, The harder levelup
